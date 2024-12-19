@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  translation-service:
+    build: .
+    container_name: ar2en_translation_service
+    ports:
+      - "8000:8000"
+    restart: always

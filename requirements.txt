@@ -1,0 +1,6 @@
+transformers
+uvicorn
+fastapi
+sentencepiece
+sacremoses
+torch
