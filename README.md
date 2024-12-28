@@ -1,5 +1,4 @@
-# Microservices Project
-
+# Microservices Project - AR2EN
 ## Introduction
 This project demonstrates the implementation of a microservices-based architecture. It includes services that communicate through defined interfaces, ensuring modularity and scalability. The application is containerized using Docker for ease of deployment.
 
@@ -51,7 +50,7 @@ EN2AR-master/
 ```
 
 ## Usage
-- Access the application through the service endpoint (e.g., `http://localhost:<port>`).
+- Access the application through the service endpoint (`http://localhost:5002`).
 - Modify the services or extend functionality by editing the respective modules in the project.
 
 ## Contributing
